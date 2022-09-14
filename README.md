@@ -21,4 +21,4 @@ Flix is an app that allows users to browse movies from the [The Movie Database A
 ### Notes
 
 - Developer is usually a PC user and had to learn the Apple interface to create this project.
-- Dependencies are difficult to install because of the use of Apple sillicone chip.
+- Dependencies were difficult to install.
